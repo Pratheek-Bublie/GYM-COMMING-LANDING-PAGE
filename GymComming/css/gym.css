@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/gym.jpeg);
+    background-size: cover;
+}
+
+.head{
+    color: whitesmoke;
+    margin: 100px auto;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Kanit', sans-serif;
+}
+p{
+    margin: -79px auto;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+     font-family: 'Kanit', sans-serif;
+
+}
+button{
+    
+    margin: 160px  520px auto; 
+       
+}
